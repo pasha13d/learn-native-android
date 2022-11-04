@@ -3,4 +3,5 @@
     <string name="hello_message">Hello From Android!</string>
     <string name="name_tb">Type your name here</string>
     <string name="submitBtn">Submit</string>
+    <string name="view_offers">View Offers</string>
 </resources>
